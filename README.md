@@ -1,8 +1,9 @@
-# Legacy: Minimal UART CPU System
+# Legacy: Version 1 and 2 of the Minimal UART Computer
 
-See https://github.com/slu4coder/Minimal-64x4-Home-Computer for the most recent version.
+See tbd for the latest version 3.
+See https://github.com/slu4coder/Minimal-64x4-Home-Computer for a more feature-rich version.
 
-Quick note: This is a free and non-commercial project. I am in no way associated with any activies selling this as a product.
+This is a free and non-commercial project. I am in no way associated with any activies selling this as a product.
 Any such activity represents a license violation. Individual licenses apply for hardware and software parts. Please refer to
 appropriate documentations for detailed licensing information.
 
